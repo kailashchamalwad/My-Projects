@@ -1,5 +1,5 @@
 #Project Summary: 
-#To-Do List Web Application
+To-Do List Web Application
 
 The To-Do List web application is designed to provide users with a convenient platform for managing their daily tasks effectively. Developed using HTML, CSS, and JavaScript, this application offers a seamless user experience with intuitive features for creating, saving, and organizing tasks.
 
